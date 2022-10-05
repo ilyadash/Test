@@ -5,7 +5,7 @@
 
 ## ./compile_and_run.sh
 
-(Make shure your copy of "compile_and_run.sh" has permission to be executed on system.)
+(Make sure your copy of "compile_and_run.sh" has permission to be executed on system.)
 
 ## Input data should be written in input.txt file, result will be written in output.txt file.
 ## Time complexity ot the code I consider to be quadratic.
